@@ -1,0 +1,32 @@
+c:\users\piotr\documents\visual studio 2015\Projects\Jaskinia\Jaskinia\bin\Debug\Jaskinia.exe.config
+c:\users\piotr\documents\visual studio 2015\Projects\Jaskinia\Jaskinia\bin\Debug\Jaskinia.exe
+c:\users\piotr\documents\visual studio 2015\Projects\Jaskinia\Jaskinia\bin\Debug\Jaskinia.pdb
+c:\users\piotr\documents\visual studio 2015\Projects\Jaskinia\Jaskinia\obj\Debug\Jaskinia.csprojResolveAssemblyReference.cache
+c:\users\piotr\documents\visual studio 2015\Projects\Jaskinia\Jaskinia\obj\Debug\Jaskinia.exe
+c:\users\piotr\documents\visual studio 2015\Projects\Jaskinia\Jaskinia\obj\Debug\Jaskinia.pdb
+C:\Users\Piotr\documents\visual studio 2015\Projects\Jaskinia\Jaskinia\obj\Debug\Interop.WMPLib.dll
+C:\Users\Piotr\documents\visual studio 2015\Projects\Jaskinia\Jaskinia\obj\Debug\Jaskinia.csproj.ResolveComReference.cache
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Jaskinia\Jaskinia\bin\Debug\Jaskinia.exe.config
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Jaskinia\Jaskinia\obj\Debug\Interop.WMPLib.dll
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Jaskinia\Jaskinia\obj\Debug\Jaskinia.csproj.ResolveComReference.cache
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Jaskinia\Jaskinia\obj\Debug\Jaskinia.exe
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Jaskinia\Jaskinia\obj\Debug\Jaskinia.pdb
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Jaskinia\Jaskinia\bin\Debug\Jaskinia.exe
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Jaskinia\Jaskinia\bin\Debug\Jaskinia.pdb
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Jaskinia\Jaskinia\obj\Debug\Jaskinia.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Jaskinia\Jaskinia\bin\Debug\Jaskinia.exe.manifest
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Jaskinia\Jaskinia\bin\Debug\Jaskinia.application
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Jaskinia\Jaskinia\obj\Debug\Jaskinia.exe.manifest
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Jaskinia\Jaskinia\obj\Debug\Jaskinia.application
+C:\Users\Piotr\Desktop\mojeProjekty\Jaskinia\Jaskinia\bin\Debug\Jaskinia.exe.config
+C:\Users\Piotr\Desktop\mojeProjekty\Jaskinia\Jaskinia\obj\Debug\Interop.WMPLib.dll
+C:\Users\Piotr\Desktop\mojeProjekty\Jaskinia\Jaskinia\obj\Debug\Jaskinia.csproj.ResolveComReference.cache
+C:\Users\Piotr\Desktop\mojeProjekty\Jaskinia\Jaskinia\obj\Debug\Jaskinia.exe
+C:\Users\Piotr\Desktop\mojeProjekty\Jaskinia\Jaskinia\obj\Debug\Jaskinia.pdb
+C:\Users\Piotr\Desktop\mojeProjekty\Jaskinia\Jaskinia\bin\Debug\Jaskinia.exe.manifest
+C:\Users\Piotr\Desktop\mojeProjekty\Jaskinia\Jaskinia\bin\Debug\Jaskinia.application
+C:\Users\Piotr\Desktop\mojeProjekty\Jaskinia\Jaskinia\bin\Debug\Jaskinia.exe
+C:\Users\Piotr\Desktop\mojeProjekty\Jaskinia\Jaskinia\bin\Debug\Jaskinia.pdb
+C:\Users\Piotr\Desktop\mojeProjekty\Jaskinia\Jaskinia\obj\Debug\Jaskinia.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\mojeProjekty\Jaskinia\Jaskinia\obj\Debug\Jaskinia.exe.manifest
+C:\Users\Piotr\Desktop\mojeProjekty\Jaskinia\Jaskinia\obj\Debug\Jaskinia.application
